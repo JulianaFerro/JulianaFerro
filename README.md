@@ -1,16 +1,14 @@
 ### Hi there 👋
+Este repositorio se van a guardar actividades, trabajos y codigos de clase 
 
-<!--
-**JulianaFerro/JulianaFerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Juliana Ferro Bonilla, estudiante de tercer semestre en ingenieria de sistemas de la universidad Corhuila
 
-Here are some ideas to get you started:
+Estoy en las materias:
+-**Calculo multivariado**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### contactos
+Correo electronico: mariajulianaferrobonilla@gmail.com
+
+Gracias por visitar mi perfil :D
+
